@@ -1,4 +1,4 @@
-//原题链接
+//原题链接https://www.patest.cn/contests/pat-b-practise/1006
 
 #include <iostream>
 #include <cstdio>
