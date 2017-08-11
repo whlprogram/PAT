@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502355224 source:d:\code\pat\nowcoder\pat乙级(basic level)真题\1009.1019.数字黑洞\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
