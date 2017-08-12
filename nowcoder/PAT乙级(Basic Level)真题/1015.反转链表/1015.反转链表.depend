@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502432171 source:d:\code\pat\nowcoder\pat乙级(basic level)真题\1015.反转链表\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
