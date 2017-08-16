@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502692345 source:d:\code\pat\pat_a\1002.a+bforpolynomials\main.cpp
+	<iostream>
+	<vector>
+
