@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503135333 source:d:\code\pat\pat_a\1006.signinandsignout\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+

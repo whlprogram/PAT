@@ -1,3 +1,5 @@
+//原题链接  https://www.patest.cn/contests/pat-a-practise/1001
+//题解  http://blog.csdn.net/whl_program/article/details/77261774
 #include <iostream>
 #include <string>
 using namespace std;
@@ -8,7 +10,7 @@ int main()
     cin >> a >> b;
     int sum = a + b;
     string res="";
-    bool flag = true;//����
+    bool flag = true;//正数
     if(sum < 0){
         flag = false;
         sum = -sum;
