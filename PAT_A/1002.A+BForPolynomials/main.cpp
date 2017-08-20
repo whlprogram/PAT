@@ -1,5 +1,3 @@
-//原题链接  https://www.patest.cn/contests/pat-a-practise/1002
-//题解  http://blog.csdn.net/whl_program/article/details/77262791
 #include <iostream>
 #include <vector>
 #include <cstdio>
