@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1503561715 source:d:\code\pat\pat_a\1010.radix\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+	<string>
+	<algorithm>
+	<vector>
+
