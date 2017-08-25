@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503648468 source:d:\code\pat\pat_a\1011.worldcupbetting\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+
