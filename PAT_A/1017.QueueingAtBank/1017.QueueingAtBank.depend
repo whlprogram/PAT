@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504098066 source:d:\code\pat\pat_a\1017.queueingatbank\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+
